@@ -1,0 +1,1 @@
+var *- my comment -* a program does not accept this as comment cannot happen in the middle of variable declaration.

@@ -1,0 +1,1 @@
+var b *- comment in between -* b = 6       program accept this as b being assigned to 6 with a comment in the middle

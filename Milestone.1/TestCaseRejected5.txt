@@ -1,0 +1,3 @@
+var t = "yes" *-3234 hello-* var b = "no" program does not accept this because
+currently the diagram shows that only a-z and spaces are allowed inside comments. This
+can be changes very easily.

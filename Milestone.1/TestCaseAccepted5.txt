@@ -1,0 +1,1 @@
+var a a = "howdy" print ( a ) program accept this as assigning howdy to a and then printing howdy

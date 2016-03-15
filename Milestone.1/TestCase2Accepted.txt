@@ -1,0 +1,1 @@
+var c c = 9 + "this is accepted" program accept this as variable c assigned to be 9 + the string i just wrote.

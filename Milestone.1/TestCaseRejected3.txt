@@ -1,0 +1,2 @@
+var p p = 9 program does not accept this because p and v cannot be used as variable names
+given that the start state also uses them for transitions to print and variable declaration states. (See diagram).
