@@ -1,0 +1,6 @@
+var a a = "howdy" print ( a ) program accepts 
+this as assigning howdy to a and then printing howdy
+It is also entirely colored blue due to the fact that swing
+uses a foreground coloring feature which means
+that it is not possible (to my knowledge) to have multiple colors 
+on the same line is there are different types of statements involved.

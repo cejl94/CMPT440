@@ -1,0 +1,6 @@
+demonstrating save and load:
+
+type anything into the text pane on the screen. from here, entire a file name and then 
+click the save button. From here, you can erase everything you see in the text pane. 
+To see the text that you just stored to a file, type in the same file name and click load
+and the text will return.

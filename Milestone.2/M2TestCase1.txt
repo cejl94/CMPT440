@@ -1,0 +1,7 @@
+The following is an accepted test case by my text editor:
+
+var a print ( a ) 
+
+this statement is colored blue upon pressing the "colorize" button, and it denotes that it 
+is a print statement. This is because swing does not allow only certain text to be colored
+differently - all the text must be one color using the .setForegroundColor method.

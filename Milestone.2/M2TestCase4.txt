@@ -1,0 +1,4 @@
+*- comment 1232423 -*
+
+The program recognizes this as a comment and it will be colored green upon clicking 
+the colorize button

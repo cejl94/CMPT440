@@ -1,0 +1,5 @@
+var v v = b
+
+The program recognizes this as a variable declaration and will therefore colorize
+this statement pink. Note that this a fix after the milestone where my DFA did not accept 
+v to be set equal to anything because v could only be used to type the word var
